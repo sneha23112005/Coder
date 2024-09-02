@@ -1,0 +1,7 @@
+def solveMeFirst(a, b):
+    return a + b
+
+a = 7
+b = 3
+result = solveMeFirst(a, b)
+print("The sum of", a, "and", b, "is", result)
